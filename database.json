@@ -1,0 +1,167 @@
+  {
+    "fotos": [
+      {
+      "id": "12A4CD9E-F969-7106-0E70-A8214ED12111",
+      "title": "Juodai balta",
+      "description": "Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut",
+      "images": [
+        "https://images.unsplash.com/photo-1554136545-2f288e8cf4bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "https://images.unsplash.com/photo-1499417267106-45cebb7187c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=719&q=80"
+      ],
+      "liked": true,
+      "price": 100,
+      "categoryId": "1",
+      "materialTypeId": "2",
+      "colorId": "1"
+    },
+    {
+      "id": "5F7922A2-19DB-CAD4-4291-1B137C44D066",
+      "title": "Fotosesija studijoje",
+      "description": "tellus sem mollis dui, in sodales elit erat vitae risus. Duis a mi fringilla mi lacinia mattis. Integer eu lacus. Quisque imperdiet, erat",
+      "images": [
+        "https://images.unsplash.com/photo-1457038770541-b6a1afae40f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
+        "https://images.unsplash.com/photo-1527606078995-42486f991014?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
+        "https://images.unsplash.com/photo-1500630417200-63156e226754?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://images.unsplash.com/photo-1628657485319-5865d0f2791d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "https://images.unsplash.com/photo-1478145971721-10511ecaf005?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=692&q=80"
+
+      ],
+      "liked": false,
+      "price": 250,
+      "categoryId": "2",
+      "materialTypeId": "1",
+      "colorId": "2"
+    },
+    {
+      "id": "5154E9B3-8BD7-3C0A-E142-E4848C123456",
+      "title": "Senovinė fotosesija",
+      "description": "ultrices iaculis odio. Nam interdum enim non nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut erat. Sed nunc est, mollis",
+      "images": [
+        "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "https://images.unsplash.com/photo-1598006640672-f0cc33c40702?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      ],
+      "liked": false,
+      "price": 350,
+      "categoryId": "2",
+      "materialTypeId": "1",
+      "colorId": "1"
+    },
+    {
+      "id": "5154E9B3-8BD7-3C0A-E142-E4848C147243",
+      "title": "Fotosesija gamtoje",
+      "description": "ultrices iaculis odio. Nam interdum enim non nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim. Nunc ut erat. Sed nunc est, mollis",
+      "images": [
+        "https://images.unsplash.com/photo-1622842182823-28bfbfba47e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "https://images.unsplash.com/photo-1615075650468-4e8e293d4989?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://images.unsplash.com/photo-1541516160071-4bb0c5af65ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://images.unsplash.com/photo-1554080353-321e452ccf19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      ],
+      "liked": false,
+      "price": 300,
+      "categoryId": "1",
+      "materialTypeId": "2",
+      "colorId": "1"
+    },
+    {
+      "id": "815C5D64-820D-2DCD-10AA-59EE2D0BC780",
+      "title": "Skaimeninis portretas",
+      "description": "Nullam vitae diam. Proin dolor. Nulla semper tellus id nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet. Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam",
+      "images": [
+        "https://images.unsplash.com/photo-1594296459195-8b2f3fbf1c86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://images.unsplash.com/photo-1607010063495-a18e40ec6ff3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=723&q=80"
+      ],
+      "liked": false,
+      "price": 200,
+      "categoryId": "3",
+      "materialTypeId": "2",
+      "colorId": "3"
+    },
+    {
+      "id": "815C5D64-820D-2DCD-10AA-59EE2D0BC781",
+      "title": "Foto mokymai",
+      "description": "Nullam vitae diam. Proin dolor. Nulla semper tellus id nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet. Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam",
+      "images": [
+        "https://images.unsplash.com/photo-1486916856992-e4db22c8df33?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+        "https://images.unsplash.com/photo-1618048793316-93beb144f8ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      ],
+      "liked": false,
+      "price": 500,
+      "categoryId": "3",
+      "materialTypeId": "2",
+      "colorId": "3"
+    },
+    {
+      "id": "815C5D64-820D-2DCD-10AA-59EE2D0BC782",
+      "title": "Švenčių fotografavimas",
+      "description": "Nullam vitae diam. Proin dolor. Nulla semper tellus id nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet. Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam",
+      "images": [
+        "https://images.unsplash.com/photo-1651678897863-d308a41c682b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://images.unsplash.com/photo-1652950619670-873fad441e6d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      ],
+      "liked": false,
+      "price": 700,
+      "categoryId": "3",
+      "materialTypeId": "2",
+      "colorId": "3"
+    },
+    {
+      "id": "D23A657F-CBEC-9639-2E85-7CA56B098603",
+      "title": "Fotoaparatas",
+      "description": "luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed id risus quis diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos",
+      "images": [
+        "https://images.unsplash.com/photo-1516961642265-531546e84af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "https://images.unsplash.com/photo-1495121553079-4c61bcce1894?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=681&q=80",
+        "https://images.unsplash.com/photo-1431068799455-80bae0caf685?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "https://images.unsplash.com/photo-1527011046414-4781f1f94f8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "https://images.unsplash.com/photo-1516828848398-e04c82e9205a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80"
+      ],
+      "liked": true,
+      "price": 150,
+      "categoryId": "2",
+      "materialTypeId": "1",
+      "colorId": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "Gamtoje"
+    },
+    {
+      "id": "2",
+      "title": "Studijoje"
+    },
+    {
+      "id": "3",
+      "title": "Portretai"
+    }
+  ],
+  "materialTypes": [
+    {
+      "id": "1",
+      "title": "Analogija"
+    },
+    {
+      "id": "2",
+      "title": "Skaitmena"
+    }
+  ],
+  "marketingIntrests": [
+    {
+      "id": "1",
+      "title": "Naujienos"
+    },
+    {
+      "id": "2",
+      "title": "Straipsniai"
+    },
+    {
+      "id": "3",
+      "title": "Vaizdo įrašai"
+    },
+    {
+      "id": "4",
+      "title": "Klausimai"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+---------------------------------------- React - Pirma Savaitė ------------------------------------
+8-30:
+  Perskaityti:
+    * https://reactjs.org/docs/hello-world.html
+    * https://reactjs.org/docs/introducing-jsx.html
+    * https://reactjs.org/docs/rendering-elements.html
+    * https://reactjs.org/docs/components-and-props.html
+
+  Peržiūrėti:
+    * 0:00:00 - 0:36:00
+      * https://www.youtube.com/watch?v=Ke90Tje7VS0&t=2143s&ab_channel=ProgrammingwithMosh 
+    
+  NAUDOJANT PAMOKOS PROJEKTĄ IR TYPESCRIPT:
+    Pasidaryti žiūrint:
+      * https://www.youtube.com/watch?v=pnhO8UaCgxg&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=4&ab_channel=TheNetNinja
+      * https://www.youtube.com/watch?v=0sSYmRImgRY&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=5&ab_channel=TheNetNinja
+
+8-31:
+  Peržiūrėti:
+    * https://www.youtube.com/watch?v=Zz6eOVaaelI&ab_channel=DevEd
+  
+  Skurkite naują React-TS projektą ir perdarykite šį puslapį naudojant stiliaus modulio failus:
+    * https://www.youtube.com/watch?v=fs923Mu5EXY&ab_channel=WEBCIFAR
+    * https://codepen.io/Web_Cifar/pen/oNzPXRY
+
+9-01: 
+  Perskaityti:
+    https://reactjs.org/docs/state-and-lifecycle.html
+
+  Peržiūrėti:
+    https://www.youtube.com/watch?v=O6P86uwfdR0&ab_channel=WebDevSimplified
+
+  
+  Skurkite naują React-TS projektą ir perdarykite šį puslapį naudojant stiliaus modulio failus:
+    https://www.youtube.com/watch?v=hVdTQWASliE&ab_channel=TraversyMedia
+    https://codepen.io/bradtraversy/pen/XerXYV
+
+9-02:
+  Perskaityti:
+    https://reactjs.org/docs/handling-events.html
+    https://reactjs.org/docs/forms.html
+    https://reactjs.org/docs/conditional-rendering.html
+
+  Peržiūrėti:
+    https://www.youtube.com/watch?v=IkMND33x0qQ&ab_channel=TheNetNinja
+    https://www.youtube.com/watch?v=4oCVDkb_EIs&ab_channel=WebDevSurvivalGuide
+
+
+  Išskaidykite pamokos '85 - useState example': <CounterExample> komponentą smulkesniais 
+  komponentais ir pritaikykite stilius naudojas ***.module.scss failus:
+    * <Input ... />
+    * <Button ... />
+
+9-05:
+  Perskaityti:
+    https://reactjs.org/docs/lifting-state-up.html
+    https://reactjs.org/docs/composition-vs-inheritance.html
+    https://reactjs.org/docs/thinking-in-react.html
+
+  Peržiūrėti:
+    https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=5885s&ab_channel=TraversyMedia
+
+  Kas planuoja įsidarbinti per pusę metų:
+    Pabandyti padaryti naudojant TypeScript
+
+---------------------------------------- React - Antra Savaitė ------------------------------------
+
+09-06:
+  Peržiūrėti ir pasidaryti naujam projekte:
+    https://www.youtube.com/watch?v=fzxEECHnsvU&ab_channel=LamaDev
+
+09-07:
+  Persižiūrėti ir pasitestuoti savame projekte arba naudojant https://stackblitz.com/run?file=demo.tsx: 
+    https://www.youtube.com/watch?v=r42jcDXSFM0&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO&index=3&ab_channel=Codevolution
+      privaloma: 3-10
+      rekomenduojama: 3-13
+
+09-08:
+  privaloma:
+    Persižiūrėti ir pasitestuoti savame projekte arba naudojant https://stackblitz.com/run?file=demo.tsx: 
+    https://www.youtube.com/watch?v=r42jcDXSFM0&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO&index=3&ab_channel=Codevolution
+      10-20
+      
+  rekomenduojama: Peržiūrėti paskaitos įrašą.
+  
+09-09:
+  Kiek įmanoma labiau atakrtoti RangeInput įvesties laukų elgseną pagal:
+    https://www.1a.lt/c/buitine-technika/namams-smulki-buitine-technika/puku-surinkejai/2z5?plb=29
+
+  rekomenduojama: Peržiūrėti paskaitos įrašą.
+
+09-12:
+  Peržiūrėti: kad suprasti principą:
+    https://www.youtube.com/watch?v=7FQS6_fOgR8&ab_channel=JonBellah
+    https://www.youtube.com/watch?v=yqgX-c4zPFU&ab_channel=Weibenfalk
+    https://www.youtube.com/watch?v=IsnOTmB88tE&ab_channel=TravelsCode
+    88-91 paskaitų įrašai
+
+  Atlikti:
+    Surasti internete jus dominantį kompleksinį įvesties lauką ir įgalinti jo funcionalumą.
+
+---------------------------------------- React - Trečia Savaitė ------------------------------------
+
+09-13:
+  Privaloma:
+    Peržiūrėti ir pasidaryti analogiškai su TypeScript:
+    https://www.youtube.com/watch?v=9xhKH43llhU&list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM&ab_channel=BenAwad
+      1-3
+
+  Papildomai:
+    Pasiruošti pristatyti savo kompleksinį komponentą, kurį darėt savaitgalį. [+0.25] 
+
+09-14:
+  Privaloma:
+    0. https://www.youtube.com/watch?v=GIU8ekYndKw&ab_channel=Academind
+    1. Peržiūrėti paskaitos įrašą (1.5x)
+    2. Iš MUI puslapio pakopijuoti "drawer layout": https://mui.com/material-ui/react-drawer/#mini-variant-drawer
+    3. Išskaidyti komponentais nežiūrint į pamokos darbą (Žiūrėti tik tuomet, jeigu esat aklavietei)
+      * https://mui.com/system/styled/
+
+  Papildoma:
+    https://www.youtube.com/watch?v=CTDZ-5MnETA&ab_channel=TheCleverDev
+
+09-15:
+  Privaloma:
+    * Įsisavinimui
+      Ranka spalvotai perbraižyti 'sidebar-layout-passing-props-down.png' iliustraciją ir atsiųsti nuotrauką į chat'ą
+    * Naujų įgūdžių laviminui
+      arba tą patį dalyką atlikti naudojant (Figma, Sketch, AdobeXD arba Adobe Photoshop)
+
+  Papildoma:
+    * https://www.youtube.com/watch?v=ZyQlpX7lCRE&ab_channel=Codevolution
+
+09-16:
+  Privaloma:
+    * https://www.youtube.com/watch?v=pgZXqS-r9gE&ab_channel=MostlyCode
+    * Persibraižyti React.context diagramą: https://github.com/ZilvinasVidmantas/CA_Type_11/blob/main/React%20%5B82-%5D/vaizdai/context.png
+    * Aprašyti savo galutinio projekto puslapius RAŠTU:
+      * Reikalingi duomenys?
+      * Reikalingas funkcionalumas?
+      * Kas gali matyti puslapį? (Prisijungęs | Neprisijungęs | Adminas ?) 
+      * Kas ir kaip gali naudito puslapį? (Prisijungęs | Neprisijungęs | Adminas ?) 
+
+  Papildomai:
+    * https://www.youtube.com/watch?v=T1eKsuqHVjI&ab_channel=AtilaIO
+    
+---------------------------------------- React - Ketvirta Savaitė ------------------------------------
+
+09-19:
+  Privaloma:
+    * Peržiūrėti paskaitos įrašą
+    * Susikurti dirbtinai duomenų bazei skirtą json failą
+    * Apsirašyti service'us parsisiųsti duomenis
+    * Susikurti pradinį kontekstą ir filtrus
+
+  Papildomai:
+    * Pasipraktikuoti spręsti JavaScript dalies užduotis su TypeScript.
+
+09-20
+  Privaloma:
+    * Pasidaryti kintamą puslapio išdėstymą naudojant temos kintamuosius
+    
+  Papildomai:
+    * Pasipraktikuoti spręsti JavaScript dalies užduotis su TypeScript.
+
+09-21:
+  Privaloma:
+  * Atlikti 4 n.d. iš CAO
+  * Atlikti 5 n.d. iš CAO
+
+  Papildomai:
+  * Pasipraktikuoti spręsti JavaScript dalies užduotis su TypeScript.
+
+
+09-22:
+  Privaloma:
+    * https://www.youtube.com/watch?v=6ThXsUwLWvc&t=4s&ab_channel=WebDevSimplified
+    * Sukurti useRangeFilter hook'są
+
+  Papildomai:
+    * Pasipraktikuoti spręsti JavaScript dalies užduotis su TypeScript.
+
+09-23:
+  1. Iškelti visą logigą susijusią su puodeliais į hooksa useProducts
+
+  2. Susinchronizuoti 'useCheckboxFilter' komponento parametrus
+    * Atkreipti dėmesį į parametrų formatą JSON dokumentacijoje:
+      https://github.com/typicode/json-server#filter
+    * Įvertinti, kad tiek 'useCheckboxFilter' tiek 'useRangeField' parametrų sinchronizavimas
+      neturi įtakoti kitų (jau egiztuojančių parametrų)
+
+---------------------------------------- React - Penkta Savaitė ------------------------------------
+
+09-27: 
+  * Sugalvoti visos savo projekto idėjos puslapius
+    * Juos sugrupuoti pagal išdėstymus (Layout'us). Route group'sai gali būti kitų route group'sų dalis.
+    * Apgalvokite, ką galės matyti Skirtingų rolių vartotojai (ADMIN, USER, GUEST)
+  * Sukurkite savo projekte tuščius puslapius, sustruktūrizuotus pagal sugalvotą grupavimą
+  * Sukurkite savo projekte <Routes> struktūrą ir kelius iki puslapių
+  * Sukurkite savo projekte Route group'sam pritaikykite layout'us
+
+  09-28:
+  * Savo puslapiui sukurti atskirus esybių puslapius, naudojant responsive Routes
+    * parsiųskite duomenis naudodami dinaminio route'o id
+    * Atvaizduokite gautus duomenis visiems ekrano dydžiamas (nepersistenkit anksčiau laiko)
+
+09-29:
+  Registracijos formoje:
+    1. Parsiųsti ir būsenos kintamuosiuose išsaugoti categories ir marketingIntrests duomenis
+      * categories duomenis pritaikykite ir pateikite Autocomplete field'ui
+      * marketingIntrests duomenis pritaikykite ir pateikite CheckboxGroup field'ui
+    2. Sukurti Formik helper'ius naudojant useFormik hook'są
+      * Įrašykite pradines reikšmes:
+      * Įrašykite onSubmit funkciją
+    3. Įgalinkite TextField laukams:
+      * įgalinkite įvedamų reikšmių dvipusį susiejimą su formik.values
+      * paliestumo būsenos saugojimą formik.fields objekte
+      * pateikite validacijos schemą (KOLKAS TIK TextField LAUKAMS)
+      * įgalinkite klaidų rodymą
+    4. Pritaikykite AuthForm komponentui validumo reikšmė naudojant formik.dirty ir formik.isValid
+    helper'ius
+  Savo projekte:
+    Visų formų TextField'us apdoroti su Formik ir yup validacijomis.
+
+    
+09-30:
+  * Surasti kaip patikrinti jog slaptažodžiai yra vienodi
+  * pritaikyti validaciją CheckboxGroup
